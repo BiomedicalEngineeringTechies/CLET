@@ -3,6 +3,6 @@ Computation of Latencies in Event-related potential Triggers is a semi-automated
 
 This repository currently includes supplementary tables of the manuscript titled 'CLET: Computation of Latencies in Event-related potential Triggers using photodiode on virtual reality apparatuses'.
 
-The spreadsheets include results using the CLET codes. In all the spreadsheets, the first column list the Onset time of the triggers sent (in s), the second column list the Onset time of the triggers detected using the photodiode (in s), and the third column list the latency between triggers detected and triggers sent (in ms) with the average latency ± standard deviation mentioned in the last cell of the third column.  
+The spreadsheets include results using the CLET codes. In all the spreadsheets, the first column lists the Onset time of the triggers sent (in s), the second column lists the Onset time of the triggers detected using the photodiode (in s), and the third column lists the latency between triggers detected and triggers sent (in ms) with the average latency ± standard deviation mentioned in the last cell of the third column.  
 
-Please NOTE: The CLET manuscript recently got published (https://www.frontiersin.org/articles/10.3389/fnhum.2023.1223774/full). The codes, datasets, and a tutorial video to use the codes will be uploaded soon.
+NOTE: The CLET manuscript recently got published (https://www.frontiersin.org/articles/10.3389/fnhum.2023.1223774/full). The codes, datasets, and a tutorial video to use the codes will be uploaded soon. Please check back :)
